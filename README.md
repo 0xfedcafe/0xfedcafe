@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=godande&show_icons=true&hide_border=false" />
+</p>
+
+
+### Brief
+- My name is **Artem**
+- I write in C++ and Golang
+- Currently idling around
+
+### My projects
+#### Currently I participate in the following projects:
+- TUI
+
+#### My Open-Source experience
