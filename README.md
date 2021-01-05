@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### My projects
 #### Currently I participate in the following projects:
-- TUI
+- OpenTorrent
 
 #### My Open-Source experience
 - https://github.com/aletheia-icu/broccoli
