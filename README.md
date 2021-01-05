@@ -31,3 +31,34 @@ Here are some ideas to get you started:
 #### My Open-Source experience
 - https://github.com/aletheia-icu/broccoli
 - https://github.com/tucnak/telebot
+
+
+.
+
+                         |
+                 ———     |
+               /    \    |
+              /       \  |
+               \       \|
+                \----———-|
+                         ==
+                         ==
+                         |
+                        /|\
+                      /  |  \
+                    /    |    \
+                  /      |      \
+                /        |        \
+                         |
+                        /|
+                      /  |
+                    /    |
+                  /      |
+                /        |
+              /          |   
+   
+                                  _________===
+                              ____________====
+                                          ====
+                                  ________====
+                              ____________===
