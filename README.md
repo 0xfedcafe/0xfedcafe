@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Brief
 - My name is **Artem**
-- I write in C++ and Golang
+- I write in C++
 - Currently idling around
 
 ### My projects
@@ -55,8 +55,8 @@ Here are some ideas to get you started:
                     /    |
                   /      |
                 /        |
-              /          |   
-   
+              /          |
+
                                   _________===
                               ____________====
                                           ====
