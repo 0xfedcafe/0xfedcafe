@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 - Currently idling around
 
 ### My projects
-#### Currently I participate in the following projects:
-- OpenTorrent
+#### Currently I participate in the following projects
 
 #### My Open-Source experience
 - https://github.com/aletheia-icu/broccoli
 - https://github.com/tucnak/telebot
+- OpenTorrent
