@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Brief
 - My name is **Artem**
-- I write ~in C++~ on toilet paper (Pizdabol)
+- I write ~in C++~ on toilet paper
 - ~Currently~ **Always** idling around
 
 ### My projects
