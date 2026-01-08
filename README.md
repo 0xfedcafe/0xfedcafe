@@ -1,8 +1,7 @@
-### Hi there 👋
-
 <!--
-**godande/godande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
+-->
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,20 +13,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=0xfedcafe&show_icons=true&hide_border=false" />
-</p>
-
-
-### Brief
-- My name is **Artem**
-- I write in C++
-- Currently idling around
-
-### My projects
-#### Currently I participate in the following projects
-
-#### My Open-Source experience
-- https://github.com/aletheia-icu/broccoli
-- https://github.com/tucnak/telebot
-- OpenTorrent
